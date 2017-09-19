@@ -1,0 +1,62 @@
+<resources>
+
+    <string name="a_001">App:</string>
+
+    <string name="c_002">Contacto:</string>
+    <string name="c_003">5 cartas del mismo palo de 10 a As</string>
+    <string name="c_004">Las combinaciones posibles:</string>
+    <string name="c_005">5 cartas del mismo palo</string>
+    <string name="c_006">5 cartas del mismo palo no siguieron</string>
+    <string name="c_007">5 cartas de diferentes palos</string>
+    <string name="c_008">Carta más alta</string>
+
+    <string name="d_001">Dos Pares</string>
+    <string name="d_002">Dos pares de cartas</string>
+    <string name="d_003">Dos de una especie</string>
+    <string name="d_004">David Sklansky y Mason Malmuth determinaron que cada mano debe pertenecer a un grupo en particular, y propuso que todas las manos en un grupo que normalmente podrían ser igualmente movimientos. Manos para abrir más fuerte se identifican por un número inferior. Sin un número son las manos más débiles para abrir. Como regla general los libros Texas Holdem tienen el poder de manos basendo en la premisa de que hay entre nueve y diez personas en la mesa.</string>
+
+    <string name="e_001">Estrategia Básica para Pre-Flop</string>
+
+    <string name="f_001">Cuatro de una clase</string>
+    <string name="f_003">Full House o Full Hand</string>
+    <string name="f_005">Flush o Color</string>
+
+    <string name="g_001">Victorias que tiene la carta más alta</string>
+    <string name="g_002">Grupos Texas Holdem Manos</string>
+
+    <string name="j_001">Movimiento:</string>
+
+    <string name="l_001">Lista de Manos</string>
+
+    <string name="m_001">Manos para abrir</string>
+    <string name="m_002">Poker Texas Holdem manos</string>
+
+    <string name="n_001">Nota</string>
+
+    <string name="p_001">Probabilidad:</string>
+    <string name="p_002">Par</string>
+    <string name="p_003">Poker Texas Holdem</string>
+    <string name="p_004">Para leer esta tabla, comenzar con los más altos tarjetas de bolsillo. Si las cartas tienen el mismo palo, lea horizontalmente de derecha a izquierda. Si las tarjetas no son del mismo palo, lea verticalmente de arriba a abajo. Para las tarjetas que se emparejan para formar la lectura es indiferente.</string>
+
+    <string name="q_001">Corte o el póker</string>
+    <string name="q_002">Cuatro de un tipo</string>
+
+    <string name="r_001">Royal Straight Flush</string>
+
+    <string name="s_001">Sobre</string>
+    <string name="s_002">Secuencia Real Royal</string>
+    <string name="s_003">Straight Flush</string>
+    <string name="s_004">Siguiendo el mismo palo</string>
+    <string name="s_005">Siguiente (o Straight)</string>
+    <string name="s_006">Siguiente</string>
+
+    <string name="t_001">Trinca (o Three of a kind)</string>
+    <string name="t_002">Trinca o Trío</string>
+    <string name="t_003">3 de una clase</string>
+
+    <string name="u_001">Tres de una clase y un par</string>
+    <string name="u_002">Una pareja</string>
+
+    <string name="v_001">Versión:</string>
+    <string name="i_001">Image</string>
+</resources>

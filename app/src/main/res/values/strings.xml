@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name" translatable="false">Poker</string>
+
+    <string name="admob_banner" translatable="false">ca-app-pub-3565902738453119/4656113780</string>
+    <string name="admob_native_pequeno" translatable="false">ca-app-pub-3565902738453119/9980963788</string>
+
+    <string name="a_001">Aplicativo:</string>
+
+    <string name="b_001" translatable="false">Bankroll</string>
+
+    <string name="c_001" translatable="false">Copyright:</string>
+    <string name="c_002">Contato:</string>
+    <string name="c_003">5 cartas seguidas do mesmo naipe de 10 até o As</string>
+    <string name="c_004">Combinações Possíveis:</string>
+    <string name="c_005">5 cartas seguidas do mesmo naipe</string>
+    <string name="c_006">5 cartas do mesmo naipe não seguidas</string>
+    <string name="c_007">5 cartas seguidas de naipes diferentes</string>
+    <string name="c_008">Carta Alta</string>
+
+    <string name="d_001">Dois Pares</string>
+    <string name="d_002">Dois pares de cartas</string>
+    <string name="d_003">Duas cartas iguais</string>
+    <string name="d_004">David Sklansky e Mason Malmuth determinaram que cada mão deve pertencer a um determinado grupo, e propuseram que todas as mãos num grupo poderiam normalmente ser jogadas de forma semelhante. Mãos para abrir mais fortes são identificadas por um número mais baixo. Mãos sem um número são as mais fracas para se abrir. Como uma regra geral livros de Texas Holdem apresentam a força das mãos basendo-se na premissa de que há entre nove e dez pessoas na mesa.</string>
+
+    <string name="e_001">Estratégia Básica para o Pré-Flop</string>
+
+    <string name="f_001">Four of a kind (Ou Quadra)</string>
+    <string name="f_003">Full House ou Full Hand</string>
+    <string name="f_004" translatable="false">Flush</string>
+    <string name="f_005">Flush ou Cor</string>
+
+    <string name="g_001">Ganha quem tiver a carta mais alta</string>
+    <string name="g_002">Grupos de Mãos do Texas Holdem</string>
+
+    <string name="i_001">Imagem</string>
+
+    <string name="j_001">Jogada:</string>
+
+    <string name="l_001">Lista das Mãos</string>
+
+    <string name="m_001">Mãos Para Abrir</string>
+    <string name="m_002">Mãos do Poker Texas Holdem</string>
+    <string name="m_003" translatable="false">mm.mobilebr@gmail.com</string>
+    <string name="m_007" translatable="false">MM Mobile</string>
+
+    <string name="n_001">Nota</string>
+
+    <string name="p_001">Probabilidade:</string>
+    <string name="p_002">Par</string>
+    <string name="p_003">Poker Texas Holdem</string>
+    <string name="p_004">Para ler esta tabela, comece com as cartas de bolso mais altas. Caso as cartas tenham o mesmo naipe, leia horizontalmente da direita para a esquerda. Caso as cartas não sejam do mesmo naipe, leia verticalmente de cima para baixo. Para cartas que formam pares a forma de leitura é indiferente.</string>
+
+    <string name="q_001">Quadra ou poker</string>
+    <string name="q_002">Quatro cartas iguais</string>
+
+    <string name="r_001">Royal Straight Flush</string>
+
+    <string name="s_001">Sobre</string>
+    <string name="s_002">Sequência Real Royal</string>
+    <string name="s_003">Straight Flush</string>
+    <string name="s_004">Sequência de mesmo naipe</string>
+    <string name="s_005">Sequência (ou Straight)</string>
+    <string name="s_006">Sequência</string>
+
+    <string name="t_001">Trinca (ou Three of a kind)</string>
+    <string name="t_002">Trinca ou Trio</string>
+    <string name="t_003">3 cartas iguais</string>
+
+    <string name="u_001">Uma trinca e um par</string>
+    <string name="u_002">Um Par</string>
+
+    <string name="v_001">Versão:</string>
+</resources>

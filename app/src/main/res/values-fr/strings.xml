@@ -1,0 +1,62 @@
+<resources>
+
+    <string name="a_001">App:</string>
+
+    <string name="c_002">Contact:</string>
+    <string name="c_003">5 cartes de la même couleur de 10 à As</string>
+    <string name="c_004">Les combinaisons possibles:</string>
+    <string name="c_005">5 cartes de la même couleur</string>
+    <string name="c_006">5 cartes de la même couleur pas suivies</string>
+    <string name="c_007">5 cartes de couleurs différentes</string>
+    <string name="c_008">Carte haute</string>
+
+    <string name="d_001">Deux Paires</string>
+    <string name="d_002">Deux paires de cartes</string>
+    <string name="d_003">Deux dune sorte</string>
+    <string name="d_004">David Sklansky et Mason Malmuth déterminé que chaque main doit appartenir à un groupe particulier, et a proposé que toutes les mains dun groupe pourraient normalement être similaire se déplace. Mains pour ouvrir plus forte sont identifiés par un nombre inférieur. Sans un certain nombre sont entre les mains les plus faibles à ouvrir. En règle générale livres Texas Holdem ont le pouvoir des mains basendo sur la prémisse quil ya entre neuf et dix personnes à la table.</string>
+
+    <string name="e_001">Stratégie de base pour pré-flop</string>
+
+    <string name="f_001">Quatre dun genre (ou le tribunal)</string>
+    <string name="f_003">Full House ou Full main</string>
+    <string name="f_005">Flush ou Couleur</string>
+
+    <string name="g_001">Victoires qui a la carte la plus haute</string>
+    <string name="g_002">Groupes Texas Holdem Mains</string>
+
+    <string name="j_001">Mouvement:</string>
+
+    <string name="l_001">Liste des mains</string>
+
+    <string name="m_001">Mains pour ouvrir</string>
+    <string name="m_002">Mains Poker Texas Holdem</string>
+
+    <string name="n_001">Note</string>
+
+    <string name="p_001">Probabilité:</string>
+    <string name="p_002">Paire</string>
+    <string name="p_003">Poker Texas Holdem</string>
+    <string name="p_004">Pour lire ce tableau, commencez avec les cartes de poche les plus élevés. Si les cartes ont la même couleur, lire horizontalement de droite à gauche. Si les cartes ne sont pas de la même couleur, lire verticalement de haut en bas. Pour les cartes qui jumeler jusquà former lecture est indifférent.</string>
+
+    <string name="q_001">Cour ou le poker</string>
+    <string name="q_002">Quatre dune sorte</string>
+
+    <string name="r_001">Quinte flush royale</string>
+
+    <string name="s_001">Sur</string>
+    <string name="s_002">Séquence royale réel</string>
+    <string name="s_003">Quinte Flush</string>
+    <string name="s_004">Après la même couleur</string>
+    <string name="s_005">Après (ou droite)</string>
+    <string name="s_006">Suivant</string>
+
+    <string name="t_001">Three of a kind</string>
+    <string name="t_002">Set ou Trio</string>
+    <string name="t_003">3 dun genre</string>
+
+    <string name="u_001">Trois dun genre et une paire</string>
+    <string name="u_002">Un Couple</string>
+
+    <string name="v_001">Version:</string>
+    <string name="i_001">Image</string>
+</resources>

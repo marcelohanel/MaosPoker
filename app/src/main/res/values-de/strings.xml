@@ -1,0 +1,62 @@
+<resources>
+
+    <string name="a_001">App:</string>
+
+    <string name="c_002">Kontakt:</string>
+    <string name="c_003">5 Karten der gleichen Farbe von 10 bis As</string>
+    <string name="c_004">Mögliche Kombinationen:</string>
+    <string name="c_005">5 Karten der gleichen Farbe</string>
+    <string name="c_006">5 Karten der gleichen Farbe nicht gefolgt</string>
+    <string name="c_007">5 Karten mit unterschiedlichen Farben</string>
+    <string name="c_008">High Card</string>
+
+    <string name="d_001">Two Pair</string>
+    <string name="d_002">Zwei Paare von Karten</string>
+    <string name="d_003">Zwei einer Art</string>
+    <string name="d_004">David Sklansky und Mason Malmuth festgestellt, dass jede Hand muss zu einer bestimmten Gruppe gehören, und vorgeschlagen, dass alle die Hände in einer Gruppe konnte in der Regel ähnlich bewegt werden. Hände zu öffnen stärker werden durch eine geringere Zahl identifiziert. Ohne Nummer sind die schwächsten Hände zu öffnen. Als allgemeine Regel Texas Holdem Bücher haben die Macht der Hände auf der Prämisse, dass es zwischen neun und zehn Leute am Tisch basendo.</string>
+
+    <string name="e_001">Grundlegende Strategie für Pre-Flop</string>
+
+    <string name="f_001">Vier einer Art (oder Gericht)</string>
+    <string name="f_003">Full House oder Full Hand</string>
+    <string name="f_005">Flush oder Farbe</string>
+
+    <string name="g_001">Siege, die höchste Karte hat</string>
+    <string name="g_002">Texas Holdem Hände Gruppen</string>
+
+    <string name="j_001">Umzug:</string>
+
+    <string name="l_001">Liste der Hände</string>
+
+    <string name="m_001">Hände Auf Öffnen</string>
+    <string name="m_002">Texas Holdem Hände</string>
+
+    <string name="n_001">Notiz</string>
+
+    <string name="p_001">Wahrscheinlichkeit:</string>
+    <string name="p_002">Paar</string>
+    <string name="p_003">Poker Texas Holdem</string>
+    <string name="p_004">Um diese Tabelle zu lesen, beginnen mit den höchsten Pocket-Karten. Wenn die Karten haben die gleiche Farbe, waagerecht gelesen von rechts nach links. Wenn die Karten sind nicht von der gleichen Farbe, lesen Sie vertikal von oben nach unten. Für Karten, die bis zu koppeln, um zu bilden Lesen ist gleichgültig.</string>
+
+    <string name="q_001">Gericht oder Poker</string>
+    <string name="q_002">Vierling</string>
+
+    <string name="r_001">Royal Straight Flush</string>
+
+    <string name="s_001">Über</string>
+    <string name="s_002">Echtkönigsfolge</string>
+    <string name="s_003">Straight Flush</string>
+    <string name="s_004">Nach der gleichen Farbe</string>
+    <string name="s_005">Nach (oder gerade)</string>
+    <string name="s_006">Folgende</string>
+
+    <string name="t_001">Drei Gleiche (oder Drilling)</string>
+    <string name="t_002">Set oder Trio</string>
+    <string name="t_003">3 of a kind</string>
+
+    <string name="u_001">Ein Drilling und ein Paar</string>
+    <string name="u_002">Ein Paar</string>
+
+    <string name="v_001">Version:</string>
+    <string name="i_001">Image</string>
+</resources>

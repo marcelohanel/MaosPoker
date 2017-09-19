@@ -1,0 +1,62 @@
+<resources>
+
+    <string name="a_001">App:</string>
+
+    <string name="c_002">Contact:</string>
+    <string name="c_003">5 cards of the same suit from 10 to As</string>
+    <string name="c_004">Possible combinations:</string>
+    <string name="c_005">5 cards of the same suit</string>
+    <string name="c_006">5 cards of the same suit not followed</string>
+    <string name="c_007">5 cards of different suits</string>
+    <string name="c_008">High Card</string>
+
+    <string name="d_001">Two Pairs</string>
+    <string name="d_002">Two pairs of cards</string>
+    <string name="d_003">Two of a kind</string>
+    <string name="d_004">David Sklansky and Mason Malmuth determined that every hand must belong to a particular group, and proposed that all hands in a group could normally be similarly moves. Hands to open stronger are identified by a lower number. Without a number are the weakest hands to open. As a general rule Texas Holdem books have the power of hands basendo on the premise that there are between nine and ten people at the table.</string>
+
+    <string name="e_001">Basic Strategy for Pre-Flop</string>
+
+    <string name="f_001">Four of a kind</string>
+    <string name="f_003">Full House or Full Hand</string>
+    <string name="f_005">Flush or Color</string>
+
+    <string name="g_001">Wins who has the highest card</string>
+    <string name="g_002">Texas Holdem Hands groups</string>
+
+    <string name="j_001">Move:</string>
+
+    <string name="l_001">List of Hands</string>
+
+    <string name="m_001">Hands To Open</string>
+    <string name="m_002">Poker Texas Holdem hands</string>
+
+    <string name="n_001">Note</string>
+
+    <string name="p_001">Probability:</string>
+    <string name="p_002">Pair</string>
+    <string name="p_003">Poker Texas Holdem</string>
+    <string name="p_004">To read this table, start with the highest pocket cards. If the cards have the same suit, read horizontally from right to left. If the cards are not of the same suit, read vertically from top to bottom. For cards that pair up to form reading is indifferent.</string>
+
+    <string name="q_001">Court or poker</string>
+    <string name="q_002">Four of a kind</string>
+
+    <string name="r_001">Royal Straight Flush</string>
+
+    <string name="s_001">About</string>
+    <string name="s_002">Real Royal sequence</string>
+    <string name="s_003">Straight Flush</string>
+    <string name="s_004">Following the same suit</string>
+    <string name="s_005">Following (or Straight)</string>
+    <string name="s_006">Following</string>
+
+    <string name="t_001">Three of a kind</string>
+    <string name="t_002">Three of a kind</string>
+    <string name="t_003">3 of a kind</string>
+
+    <string name="u_001">Three of a kind and a pair</string>
+    <string name="u_002">One Pairr</string>
+
+    <string name="v_001">Version:</string>
+    <string name="i_001">Image</string>
+</resources>
